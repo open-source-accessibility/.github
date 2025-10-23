@@ -6,7 +6,7 @@ This a community-led initiative that will launch at the [Open Source Accessibili
 
 Join the conversation in the [Open Source Accessibility Slack ](https://join.slack.com/t/opensourceacc-kab3997/shared_invite/zt-39veighf6-ANp0KNyuMnITxGYMGCGFIA).
 
-More details coming soon...
+Review the [event highlights](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/README.md) to learn more.
 
 <!--
 
