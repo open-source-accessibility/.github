@@ -1,10 +1,8 @@
-## Welcome to the team 🙌
-
 We are building a movement to create a space for partnership with leaders from the disability, accessibility, and open source communities to collaborate, share insights, and drive meaningful change across the ecosystem.
 
 Join the conversation in the [Open Source Accessibility Slack ](https://join.slack.com/t/opensourceacc-kab3997/shared_invite/zt-39veighf6-ANp0KNyuMnITxGYMGCGFIA).
 
-## Welcome to the Open Source Accessibility community 🙌
+## Open Source Accessibility Community 🙌
 
 We’re building a collaborative movement to make open source software more accessible for everyone. This organization brings together leaders and contributors from the disability, accessibility, assistive technology, and open source communities to share knowledge, support one another, and turn ideas into meaningful action.
 
